@@ -1,0 +1,14 @@
+{
+  "name": "connectoracledatabase",
+  "version": "1.0.0",
+  "description": "sample application to demostrate front end connection with database using server side Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwanath gajavelly",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
